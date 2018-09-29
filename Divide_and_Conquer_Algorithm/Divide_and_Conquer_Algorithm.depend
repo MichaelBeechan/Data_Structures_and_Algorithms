@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538224595 source:g:\datastruct_algorithm\divide_and_conquer_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
