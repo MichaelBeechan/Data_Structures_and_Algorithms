@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538395589 source:g:\datastruct_algorithm\heuristic_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
