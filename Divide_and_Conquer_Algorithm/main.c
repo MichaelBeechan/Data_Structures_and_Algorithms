@@ -20,6 +20,7 @@ void tableSch(int num, int player)
         a[num+1][1] = num + 1;
         a[num+1][2] = num;
     }else{
+        //Divide and conquer
         tableSch(num, player/2);
         tableSch(num+player/2, player/2);
         for(i = num; i < num+player/2; i ++)
