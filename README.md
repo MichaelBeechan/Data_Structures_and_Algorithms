@@ -21,3 +21,5 @@ Enumeration (exhaustive) algorithm: search for the correct solution from all the
 5、贪婪算法：Greegy algorithm: Change Money 100 50 10 5 2 1 0.5 0.2 0.1 （yuan元）
 
 6、试探算法（启发式算法）：heuristic algorithm :Generate a lottery number combination
+
+7、模拟算法：Simulation Algorithm 使用随机函数来模拟自然界中发生的不可预测情况  srand()   rand()
