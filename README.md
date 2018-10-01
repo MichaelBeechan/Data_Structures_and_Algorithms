@@ -1,6 +1,8 @@
 # Data_Structures_and_Algorithms
 Data Structures and Algorithms with C program 
 
+。。。。。。。。。。将按照学习的内容逐步更新算法。。。。。。。。。。。。。。。期待！！！
+
 Software：Code::Blocks 17.12
 
 数据结构与算法从0到1  Data structure and algorithm from 0 to 1
@@ -17,3 +19,5 @@ Enumeration (exhaustive) algorithm: search for the correct solution from all the
 4、分治算法：分解  求解  合并    Divide and conquer algorithm: decompose solution merge
 
 5、贪婪算法：Greegy algorithm: Change Money 100 50 10 5 2 1 0.5 0.2 0.1 （yuan元）
+
+6、试探算法（启发式算法）：heuristic algorithm :Generate a lottery number combination
