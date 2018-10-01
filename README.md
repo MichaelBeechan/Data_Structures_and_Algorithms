@@ -15,3 +15,5 @@ Enumeration (exhaustive) algorithm: search for the correct solution from all the
 3、递归算法：直接或间接调用自身   Recursive algorithm: calls itself directly or indirectly
 
 4、分治算法：分解  求解  合并    Divide and conquer algorithm: decompose solution merge
+
+5、贪婪算法：: Change Money 100 50 10 5 2 1 0.5 0.2 0.1 （yuan元）
