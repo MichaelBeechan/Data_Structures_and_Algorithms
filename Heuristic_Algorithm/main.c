@@ -1,6 +1,6 @@
 /***************************
 *Description: heuristic algorithm :Generate a lottery number combination
-*Date:2018.9.29
+*Date:2018.10.1
 *Name:Michael Beechan
 *School:Chongqing University of technology
 ****************************/
