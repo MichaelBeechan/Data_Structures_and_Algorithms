@@ -1,6 +1,6 @@
 /***************************
 *Description: Greegy algorithm: Change Money 100 50 10 5 2 1 0.5 0.2 0.1 £¨yuanÔª£©
-*Date:2018.9.29
+*Date:2018.10.1
 *Name:Michael Beechan
 *School:Chongqing University of technology
 ****************************/
